@@ -8,8 +8,7 @@
 .navbar
 {
     background: #102C57;
-    width: 100%;
-    font-size: 20px;
+    font-size: 1.5rem;
 }
  .navbar .container-nav
  {
@@ -148,7 +147,7 @@
     font-style: italic;
     padding: 5% 5%;
     text-align: justify;
-    font-size: 16px;
+    font-size: 1rem;
  }
  
  .content2 .quote .name
